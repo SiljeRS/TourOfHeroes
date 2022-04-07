@@ -1,4 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
